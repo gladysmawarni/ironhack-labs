@@ -7,3 +7,5 @@ The course is divided into 3 modules:
 - Module 1 = Introduction to Data analytics and Python (data wrangling & cleaning, API & Web scraping, Git, SQL, Python)
 - Module 2 = Advanced Data Analytics (statistics & probability, inferential statistics, hypothesis testing, Tableau)
 - Module 3 = Machine Learning Fundamentals (supervised & unsupervised learning; build, train, and evaluate ML models)
+
+There are 42 labs in total, inside of each module subfolder there are more detailed description of what each lab is about.
