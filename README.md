@@ -1,5 +1,5 @@
 # ironhack-labs
-### This repo contains all the Data Analytics labs i did @[Ironhack](https://www.ironhack.com/en) Lisbon 💙
+### This repo contains all the Data Analytics labs i did @[Ironhack](https://www.ironhack.com/en) Lisbon (October 2021 - December 2021) 💙
 ### All the original repository are from this [github](https://github.com/ta-data-lis?tab=repositories), and this repo is inspired by [Ricardo](https://github.com/ricardozacarias/ironhack-labs)
 
 -----------
